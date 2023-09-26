@@ -1,0 +1,56 @@
+student_id,first_name,last_name,Gender,YEAR,program,email,CITY,weight(kg),height(cm),Math,Science,History,Art,Geography,favorite_color,favorite_subject
+20231001,Lemmy,Mazzey,Genderqueer,21,BSEMC,lmazzey0@pcworld.com,Sardasht,95,185,76,91,83,87,92,Crimson,math
+20231002,Gabi,Harrisson,Female,25,BSCS,gharrisson1@house.gov,Santa Rita,,160,81,90,92,79,97,Green,science
+20231003,Ursula,Marcus,Female,16,BSEMC,umarcus2@cocolog-nifty.com,Beya,49,150,80,97,83,71,92,Orange,art
+20231004,Lydia,Habble,Female,17,BSIT,lhabble3@reuters.com,Sagbayan,50,140,89,77,71,77,100,Maroon,math
+20231005,Nolly,Mackro,Male,18,BSCS,nmackro4@hexun.com,Horodok,,,82,77,80,84,76,Purple,science
+20231006,Easter,Beazey,Female,20,BSEMC,ebeazey5@issuu.com,Uzdin,48,,95,83,77,81,70,Yellow,history
+20231007,Guglielmo,Mordy,Male,16,BSEMC,gmordy6@twitpic.com,San Narciso,77,185,95,93,94,87,89,Puce,
+20231008,Melinde,Jochanany,Female,20,BSCS,mjochanany7@go.com,Serednye Vodyane,66,,80,92,73,86,94,Maroon,art
+20231009,Natalie,Agate,Female,22,BSCS,nagate8@adobe.com,Bastia,45,144,79,77,83,76,80,Red,science
+20231010,Vinny,Battaille,Female,24,BSEMC,vbattaille9@ibm.com,Jinping,71,,99,84,82,82,77,Maroon,
+20231011,Terrijo,Keele,Female,20,BSIT,tkeelea@google.pl,Pukkila,,130,72,94,93,98,78,Goldenrod,geography
+20231012,Maisey,McCotter,Female,19,BSIT,mmccotterb@jugem.jp,El Paso,46,159,77,72,86,97,73,Goldenrod,science
+20231013,Oliviero,Cromack,Male,16,BSCS,ocromackc@nps.gov,Youkounkoun,,,70,98,78,79,78,Blue,art
+20231014,Ansel,Kleinber,Male,24,BSEMC,akleinberd@geocities.com,Varniai,65,164,98,87,92,70,79,Crimson,
+20231015,Leanor,Rewcassell,Female,25,BSIT,lrewcasselle@merriam-webster.com,Nyköping,,,77,85,79,91,78,Goldenrod,science
+20231016,Rene,Fansy,Female,20,BSIT,rfansyf@woothemes.com,Randuagung,62,163,85,85,96,83,85,Pink,history
+20231017,Jeno,Gobourn,Male,19,BSEMC,jgobourng@dropbox.com,Leigongjian,70,177,85,100,80,81,82,Goldenrod,history
+20231018,Selina,Mumbeson,Female,16,BSEMC,smumbesonh@sogou.com,Omsukchan,70,157,85,70,72,98,93,Pink,art
+20231019,Willabella,Rawcliffe,Female,19,BSCS,wrawcliffei@diigo.com,Orsha,45,139,75,95,92,99,86,Orange,art
+20231020,Ban,Swift,Male,17,BSIT,bswiftj@kickstarter.com,Chenfangji,50,148,76,77,76,82,74,Red,science
+20231021,Dotty,Pottle,Female,25,BSEMC,dpottlek@pinterest.com,Tarkastad,59,148,73,97,76,79,96,Turquoise,science
+20231022,Ellen,O'Donovan,Female,21,BSEMC,eodonovanl@joomla.org,Saint-Augustin,75,177,100,93,83,97,93,Maroon,art
+20231023,Dick,Pavlata,Male,17,BSIT,dpavlatam@imgur.com,Mambulo,87,183,93,80,93,88,90,Crimson,geography
+20231024,Denney,Harlin,Male,16,BSIT,dharlinn@chicagotribune.com,Guifeng,43,,95,92,74,87,70,Orange,history
+20231025,Leontine,Haborn,Female,24,BSIT,lhaborno@ebay.co.uk,Girang,45,120,98,96,96,88,84,Mauv,
+20231026,Nona,Ivanovic,Female,19,BSIT,nivanovicp@icq.com,Simão Dias,64,132,77,94,72,74,70,Fuscia,history
+20231027,Mitch,Yakunin,Male,21,BSEMC,myakuninq@1und1.de,Nagornyy,51,163,100,71,100,88,75,Red,art
+20231028,Joshia,Portigall,Male,22,BSCS,jportigallr@nasa.gov,Mount Frere,88,,95,72,83,90,99,Khaki,
+20231029,Jaquith,McLaine,Female,19,BSCS,jmclaines@ibm.com,Fushun,,,88,74,100,81,75,Aquamarine,geography
+20231030,Therine,Duplain,Female,24,BSEMC,tduplaint@adobe.com,Dao’er,81,,76,95,90,74,100,Violet,science
+20231031,Melly,Heisman,Bigender,21,BSCS,mheismanu@adobe.com,Oliveira de Frades,96,174,99,99,95,89,95,Goldenrod,history
+20231032,Sheree,Smaridge,Female,21,BSCS,ssmaridgev@nih.gov,Pizhanka,40,172,100,80,71,70,71,Pink,
+20231033,Karlyn,Jenken,Female,21,BSCS,kjenkenw@hubpages.com,Dongjia,82,167,81,95,91,92,100,Pink,science
+20231034,Julina,Standfield,Female,25,BSCS,jstandfieldx@issuu.com,San Francisco,,,86,72,83,77,73,Maroon,science
+20231035,Hal,Chazette,Male,21,BSCS,hchazettey@ifeng.com,Shakhta,,170,94,85,87,97,94,Khaki,history
+20231036,Ezri,Durnan,Male,20,BSIT,edurnanz@ask.com,Pugeran,,,81,86,76,71,99,Puce,math
+20231037,Indira,Rodman,Female,18,BSIT,irodman10@businessweek.com,Pasararba,72,176,84,73,80,77,90,Turquoise,geography
+20231038,Robb,Benallack,Male,20,BSEMC,rbenallack11@shareasale.com,Arendal,94,,99,89,83,76,82,Mauv,math
+20231039,Clary,Bairstow,Female,18,BSIT,cbairstow12@friendfeed.com,Kansas City,74,158,83,91,97,92,89,Green,history
+20231040,Reinhold,Pecht,Non-binary,16,BSEMC,rpecht13@paypal.com,Pingshanhu,86,158,83,79,84,75,93,Purple,history
+20231041,Ruthann,Costi,Female,25,BSCS,rcosti14@hao123.com,Sơn Hà,76,147,90,86,71,70,79,Red,history
+20231042,Bev,Cressor,Male,16,BSCS,bcressor15@cbc.ca,Kostelec nad Černými Lesy,,152,72,71,87,72,85,Teal,art
+20231043,Lew,Shillinglaw,Non-binary,16,BSIT,lshillinglaw16@edublogs.org,Horka nad Moravou,,,74,80,96,90,94,Blue,art
+20231044,Roberto,Harsum,Male,20,BSCS,rharsum17@nyu.edu,Kondrovo,74,177,83,76,80,76,90,Teal,history
+20231045,Eldredge,Ruthven,Male,17,BSIT,eruthven18@stumbleupon.com,Romanovskaya,,139,96,92,94,100,85,Violet,history
+20231046,Heloise,Macbane,Female,19,BSIT,hmacbane19@issuu.com,Al Fākhūrah,,170,95,80,71,74,77,Aquamarine,math
+20231047,Kerby,Lockett,Male,21,BSIT,klockett1a@dagondesign.com,Puerto Berrío,100,176,98,70,97,75,71,Puce,
+20231048,Stavros,Allgood,Male,19,BSIT,sallgood1b@wix.com,Praia Grande,98,,91,83,75,83,88,Red,geography
+20231049,Meris,Senter,Female,19,BSEMC,msenter1c@jimdo.com,Mina de São Domingos,74,170,96,73,96,77,81,Violet,
+20231050,Roldan,Edgerley,Male,22,BSEMC,redgerley1d@ebay.com,San Casimiro,112,136,71,82,99,77,84,Puce,history
+20231037,Indira,Rodman,Female,18,BSIT,irodman10@businessweek.com,Pasararba,72,176,84,73,80,77,90,Turquoise,geography
+20231041,Ruthann,Costi,Female,25,BSCS,rcosti14@hao123.com,Sơn Hà,76,147,90,86,71,70,79,Red,history
+20231031,Melly,Heisman,Bigender,21,BSCS,mheismanu@adobe.com,Oliveira de Frades,96,174,99,99,95,89,95,Goldenrod,history
+20231015,Leanor,Rewcassell,Female,25,BSIT,lrewcasselle@merriam-webster.com,Nyköping,,,77,85,79,91,78,Goldenrod,science
+20231008,Melinde,Jochanany,Female,20,BSCS,mjochanany7@go.com,Serednye Vodyane,66,,80,92,73,86,94,Maroon,art
